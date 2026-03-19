@@ -1,0 +1,25 @@
+body {font-family: Arial;
+background: #e49fef;
+text-Align:center;
+margin: 0 ;
+}
+header{
+    background-color: aqua;
+    color: rgb(236, 145, 250);
+    padding: 25px;
+}
+section{
+    margin: 30px;
+    }
+    h2{
+        color: aqua
+    }
+    .projeto{ 
+        background-color: rgb(236, 145, 250);
+        padding: 20px;
+        margin: 15px auto;
+        width: 60%;
+        border-radius: 10px;
+        box-shadow: 4px 4px 10px aqua;
+    }  
+
