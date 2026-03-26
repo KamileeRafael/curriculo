@@ -21,5 +21,10 @@ section{
         width: 60%;
         border-radius: 10px;
         box-shadow: 4px 4px 10px aqua;
-    }  
-
+}
+footer{
+    background: hsl(288, 80%, 38%);
+    color:aqua;
+    padding: 15px;
+    margin-top: 30px;
+}
